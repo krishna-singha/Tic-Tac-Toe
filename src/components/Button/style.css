@@ -1,0 +1,23 @@
+#button {
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: bolder;
+
+    background-color: rgb(1, 90, 77);
+    color: white;
+    box-shadow: 1px 1px 8px rgba(255, 255, 255, 0.463);
+
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.7rem 2rem;
+}
+
+#button:hover {
+    background-color: rgba(2, 37, 32, 0.796);
+}
+
+@media screen and (max-width: 392px) {
+    .button {
+        font-size: 1rem;
+    }
+}
