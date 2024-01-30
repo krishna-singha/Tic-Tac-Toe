@@ -93,6 +93,9 @@ function App() {
             <Block onClick={() => handleClick(8)} value={state[8]} />
           </div>
         </div>
+        <div id="developer">
+          <p>Developed by Krishna Singha</p>
+        </div>
         <Button />
       </div>
     </div>
