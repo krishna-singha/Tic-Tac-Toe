@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-- A simple Tic Tac Toe game built with React.
+- Tic Tac Toe is a classic game where two players take turns marking Xs and Os on a 3x3 grid. The objective is to create a row of three of their symbols horizontally, vertically, or diagonally. It's simple to learn, yet offers strategic depth as players aim to outsmart each other. With its quick gameplay and minimal setup, Tic Tac Toe remains a timeless, accessible, and enjoyable game for players of all ages.
 
 <br>
 
